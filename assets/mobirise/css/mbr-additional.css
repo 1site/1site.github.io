@@ -1113,16 +1113,28 @@ section.lazy-placeholder:after {
   color: #ff3366;
 }
 .cid-rGzcrpH3jZ {
-  background: #82786e;
+  background: #c1c1c1;
   padding-top: 120px;
   padding-bottom: 120px;
-  background: linear-gradient(0deg, #82786e, #efefef);
 }
 .cid-rGzcrpH3jZ .video-block {
   margin: auto;
 }
 @media (max-width: 768px) {
   .cid-rGzcrpH3jZ .video-block {
+    width: 100% !important;
+  }
+}
+.cid-rGL65onoLW {
+  background: #c1c1c1;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rGL65onoLW .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rGL65onoLW .video-block {
     width: 100% !important;
   }
 }
