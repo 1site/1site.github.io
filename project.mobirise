@@ -46,14 +46,14 @@
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "favicon": "@PROJECT_PATH@/assets/images/1-sit-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/128x128-3.png",
     "": "on",
     "modified": "2019-11-01T18:42:12.100Z",
     "PWA": {
       "enabled": true,
       "name": "card",
       "icon": "@PROJECT_PATH@/assets/images/-512x512.png",
-      "themeColor": "#149dcc"
+      "themeColor": "#cebfaf"
     },
     "cssOptimize": true,
     "lazyLoad": true,
