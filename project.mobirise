@@ -37,29 +37,28 @@
     "screenshot": "screenshot.png",
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "sitemapSwitcher": true,
-    "siteUrl": "http://1site.co.il",
+    "sitemapSwitcher": false,
+    "siteUrl": "",
     "sitemapSwitcherAuto": true,
-    "cookiesAlert": {
-      "customDialogSelector": false,
-      "colorText": "#424a4d",
-      "colorBg": "#eaeff1",
-      "colorButton": "",
-      "colorLink": "#424a4d",
-      "underlineLink": true,
-      "opacity": "99",
-      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-      "textButton": "Agree"
-    },
     "gdpr": {
       "colorText": "#a7a7a7",
       "colorLink": "#149dcc",
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/128x128-1.png",
     "": "on",
-    "modified": "2019-11-01T18:42:12.100Z"
+    "modified": "2019-11-01T18:42:12.100Z",
+    "PWA": {
+      "enabled": true,
+      "name": "card",
+      "icon": "@PROJECT_PATH@/assets/images/-512x512.png",
+      "themeColor": "#149dcc"
+    },
+    "cssOptimize": true,
+    "lazyLoad": true,
+    "pwa-switcher": true,
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -69,7 +68,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/%D7%9C%D7%A4%D7%99%D7%A1-640x640.png"
       },
       "components": [
         {
