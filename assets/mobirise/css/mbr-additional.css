@@ -1583,8 +1583,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rHsfGCv3gB {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 135px;
+  padding-bottom: 135px;
 }
 .cid-rHsfGCv3gB .mbr-text {
   color: #ffffff;
@@ -1603,14 +1603,14 @@ section.lazy-placeholder:after {
 .cid-rHsfGCv3gB .mbr-iconfont {
   transition: all 0.3s;
   color: #ffffff !important;
-  font-size: 5rem !important;
+  font-size: 10rem !important;
 }
 .cid-rHsfGCv3gB .card {
   transition: all 0.3s;
   padding: 2rem!important;
 }
 .cid-rHsfGCv3gB .card:hover .card-title {
-  color: #57468b !important;
+  color: #ff3366 !important;
   cursor: pointer;
 }
 .cid-rHsfGCv3gB .card-title {
