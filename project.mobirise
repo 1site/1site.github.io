@@ -31,12 +31,45 @@
       "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
-    "name": "Site-11-10_1954",
+    "name": "1-site",
     "versionFirst": "4.11.4",
     "siteFonts": [],
     "uniqCompNum": 5,
     "versionPublish": "4.11.4",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "cssOptimize": true,
+    "lazyLoad": false,
+    "robotsSwitcher": true,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "sitemapSwitcher": false,
+    "siteUrl": "",
+    "sitemapSwitcherAuto": true,
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+      "textButton": "Agree"
+    },
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": true,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
+    "PWA": {
+      "enabled": false,
+      "name": "1site",
+      "icon": "@PROJECT_PATH@/assets/images/1-site-basic-file-512x512.png",
+      "themeColor": "#b2ccd2"
+    },
+    "favicon": "",
+    "": "on",
+    "pwa-switcher": true
   },
   "pages": {
     "index.html": {
