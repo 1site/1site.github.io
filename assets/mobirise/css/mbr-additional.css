@@ -2947,9 +2947,9 @@ section.lazy-placeholder:after {
   color: #716c80;
 }
 .cid-rImZWRJ08J {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #ffffff;
+  padding-top: 135px;
+  padding-bottom: 0px;
+  background-color: #232323;
 }
 .cid-rImZWRJ08J .mbr-shop {
   display: table;
@@ -3291,7 +3291,7 @@ section.lazy-placeholder:after {
 }
 .cid-rImZWRJ08J .mbr-gallery-item:hover .style_overlay {
   background: #ffffff;
-  opacity: 0.7;
+  opacity: 0;
   transition: all .5s;
 }
 .cid-rImZWRJ08J .mbr-gallery-item:hover .sidebar_wraper {
